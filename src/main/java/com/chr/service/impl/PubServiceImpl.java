@@ -1,8 +1,3 @@
-/**
- * 2014-7-2 
- * PubSubServiceImpl.java 
- * author:Edwin Chen
- */
 package com.chr.service.impl;
 
 

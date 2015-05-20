@@ -1,8 +1,3 @@
-/**
- * 2014-7-2 
- * Message.java 
- * author:Edwin Chen
- */
 package com.chr.domain;
 
 import java.util.ArrayList;

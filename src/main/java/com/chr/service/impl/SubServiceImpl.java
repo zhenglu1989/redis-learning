@@ -1,8 +1,3 @@
-/**
- * 2014-7-2 
- * SubServiceImpl.java 
- * author:Edwin Chen
- */
 package com.chr.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
