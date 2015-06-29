@@ -1,14 +1,11 @@
-/**
- * 2014-7-2 
- * PubSubController.java 
- * author:Edwin Chen
- */
+
 package com.chr.controller;
 
 import java.util.ArrayList;
 
 import javax.annotation.Resource;
 
+import com.wordnik.swagger.annotations.ApiModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -33,6 +30,7 @@ public class PubSubController {
 
 	@Autowired
 	private SubServiceImpl subService;
+
 
 	@RequestMapping(value = "/sub")
 	public String Subscriber(Model model) {

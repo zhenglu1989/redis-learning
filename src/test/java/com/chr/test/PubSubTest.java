@@ -26,7 +26,7 @@ public class PubSubTest {
 	
 	@Test
 	public void PubTest() {
-		String message = "chenhaoran2";
+		String message = "hello";
 		pubservice.publisher(message);
 	}
 }
